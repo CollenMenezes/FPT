@@ -237,7 +237,7 @@ def main():
 
         else:
             banner()
-            print ("[-] THE LINK MAY BE WRONG OR ENTER ACCORDING TO THE EXAMPLE: https://www.google.com")
+            print ("[-] THE LINK MAY BE WRONG OR ENTER ACCORDING TO THE EXAMPLE: www.google.com")
             time.sleep(3)
             url_scan()
 
