@@ -1,7 +1,6 @@
 ![](https://files.catbox.moe/syob3u.gif)
 ![](https://files.catbox.moe/5c11uj.svg)
 ![](https://files.catbox.moe/ayesel.svg)
-![](https://files.catbox.moe/onpiqo.svg)
 
 # Description  📑
 **FPT** or **Fraud Prevention Tools** It is a set of essential tools to prevent fraud and information gathering. You can analyze data like, email, phone number, url and IP addresses. The tool is still in the testing phase and intends to be further improved. If you made it this far, don't forget to leave your star ( ⭐ ) so that more people can get here. You can see more at: https://replit.com/@CollenMenezes/FPT <br> Follow me at:
